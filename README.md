@@ -2,7 +2,7 @@
 
 ## Install
 
-0. Install VSCode Extensions: https://code.visualstudio.com/docs/languages/cpp (WINDOWS) , https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb (MAC/LINUX) , https://marketplace.visualstudio.com/items?itemName=rust-lang.rust (BOTH)
+0. Install VSCode Extensions: [Windows Compiler Stuff](https://code.visualstudio.com/docs/languages/cpp) , [MAC/Linux Compiler Stuff](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) , [Rust Extension](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
 1. Download and install cargo: https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe
 2 . Restart VSCode
 
@@ -25,3 +25,5 @@ Thx to:
 
 Links provided seemed fine at the time i checked them. 
 However I do not provide any guarantees about the safety of the provided links as of now and especially in the future.
+Only tested on Windows if there are issues with Mac/Linux and you know the solution please let me know.
+Then i will fix this. 
