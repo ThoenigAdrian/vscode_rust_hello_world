@@ -1,0 +1,4 @@
+[package]
+name = "hello_world_rust_vscode_debug"
+version = "1.0.0"
+authors = ["Adrian Thoenig <forrestthewoods@gmail.com>"]

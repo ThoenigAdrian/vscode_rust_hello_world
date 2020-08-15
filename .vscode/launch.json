@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceRoot}/target/debug/hello_world_rust_vscode_debug.exe",
+            "args": [],
+            "preLaunchTask": "cargo build",
+            "stopAtEntry": false,
+            "cwd": "${workspaceRoot}",
+            "environment": [],
+            "externalConsole": true
+        },
+        {
+            "name": "(OSX) Launch",
+            "type": "lldb",
+            "request": "launch",
+            "program": "${workspaceRoot}/target/debug/hello_world_rust_vscode_debug",
+            "preLaunchTask": "cargo build",
+            "args": [],
+            "cwd": "${workspaceRoot}",
+}
+    ]
+}
+
