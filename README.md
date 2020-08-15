@@ -3,8 +3,8 @@
 ## Install
 
 0. Install VSCode Extensions: [Windows Compiler Stuff](https://code.visualstudio.com/docs/languages/cpp) , [MAC/Linux Compiler Stuff](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) , [Rust Extension](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
-1. Download and install cargo: https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe
-2 . Restart VSCode
+1. Download and install [cargo](https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe)
+2. Restart VSCode
 
 ## Run
 
